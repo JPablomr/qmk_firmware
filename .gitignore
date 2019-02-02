@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .history/
+=======
+.DS_Store
+>>>>>>> 748fa2f8f... jose
 .dep
 *.o
 *.bin
@@ -70,6 +74,9 @@ util/Win_Check_Output.txt
 secrets.tar
 id_rsa_*
 /.vs
+<<<<<<< HEAD
 
 # python things
 __pycache__
+=======
+>>>>>>> 748fa2f8f... jose
